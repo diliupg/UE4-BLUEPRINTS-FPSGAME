@@ -1,0 +1,14 @@
+
+
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=22A630AD497815B401E36A9C8EFFA135
+
+[StartupActions]
+bAddPacks=True
+InsertPack=(PackSource="StarterContent.upack",PackName="StarterContent")
+
+[/Script/AIModule.AISense_Sight]
+bAutoRegisterAllPawnsAsSources=false
+
+[/Script/AIModule.AISense_Hearing]
+bAutoRegisterAllPawnsAsSources=false
