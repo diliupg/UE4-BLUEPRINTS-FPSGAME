@@ -5,14 +5,21 @@
 # we do not need to version control the Starter Content and the Assets we got from the market place
 =======
 
+Content/AnimStarterPack/*
+Content/CustomizableArmsAnims/*
+Content/Effects/*
+Content/GoodSky/*
+Content/InfinityBladeWeapons/*
+Content/Mannequin/*
+Content/MilitaryWeaponsSilver/*
 Content/ShooterGame/*
 Content/StarterContent/*
 Content/UE_ThirdPerson/*
 Content/UE_ThirdPersonBP/*
 Content/UE_FirstPerson/*
 Content/UE_FirstPersonBP/*
-Content/MilitaryWeaponsSilver/*
-Content/InfinityBladeWeapons/*
+
+
 =======
 
 # Visual Studio 2015 user specific files
